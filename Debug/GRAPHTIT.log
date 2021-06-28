@@ -1,0 +1,5 @@
+﻿  GRAPHTIT.cpp
+C:\Users\Asus\source\repos\GRAPHTIT\GRAPHTIT.cpp(32,22): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\GRAPHTIT\GRAPHTIT.cpp(44,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\source\repos\GRAPHTIT\GRAPHTIT.cpp(74,21): warning C4018: <: несоответствие типов со знаком и без знака
+  GRAPHTIT.vcxproj -> C:\Users\Asus\source\repos\GRAPHTIT\Debug\GRAPHTIT.exe
